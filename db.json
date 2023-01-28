@@ -1,5 +1,5 @@
-{
-    "organization": {
+[
+   "organizations": {
         "id": "GA762",
         "name": "Special Touch Animal Rescue",
         "email": "STARRadopt@aol.com",
@@ -1120,4 +1120,4 @@
             }
         }
     }
-}
+]
